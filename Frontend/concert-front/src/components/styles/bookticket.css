@@ -1,0 +1,71 @@
+.ticket-box {
+    width: 100%;
+    max-width: 400px;
+    margin: 2% auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+  }
+  
+  .ticket-box h1 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .ticket-box label {
+    font-size: 14px;
+    font-weight: bold;
+    color: #555;
+  }
+  
+  .ticket-box input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  
+  .ticket-box input[type="number"] {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  
+
+  .ticket-box .radio-box {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+  }
+  
+  .ticket-box input[type="radio"] {
+    margin-right: 5px;
+  }
+  
+  .ticket-box .sub-btn {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #464646;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .ticket-box .sub-btn:hover {
+    background-color: #9e9e9e;
+  }
+  

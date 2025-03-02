@@ -1,0 +1,70 @@
+.main-body {
+    background-color: #f4f4f9;
+    font-family: Arial, sans-serif;
+}
+
+.list-page {
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.list-page h2 {
+    text-align: center;
+    font-weight: 530;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.list-page div[style*="color: red"] {
+    color: red;
+    font-size: 14px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.list-page .listing-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.list-page .listing-table th, .list-page .listing-table td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+.list-page .listing-table th {
+    background-color: #a6a6a6;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.list-page .listing-table tr:hover {
+    background-color: #f3f3f3;
+}
+
+.list-page .btn {
+    background-color: #343434;
+    color: #fff;
+    padding: 8px 16px;
+    border: none;
+    font-style: normal;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.list-page .btn:hover {
+    background-color: #7e7e7e;
+}
+
+.list-page .listing-table tr td {
+    text-align: center;
+    font-style: italic;
+}
