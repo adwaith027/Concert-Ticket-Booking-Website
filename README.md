@@ -42,7 +42,7 @@
 <img src="https://github.com/user-attachments/assets/00f5bab8-8ba9-45be-b099-d41078e3e30b" src="Login.jpeg" width="400" height="200">
 <p>Login</p>
 
-<h4>Admin</h4>
+<h3>Admin</h3>
 
 <img src="https://github.com/user-attachments/assets/3cd06312-bc0c-44be-b1df-cb348644ba7a" src="Admin Home.jpeg" width="400" height="200">
 <p>Admin Home</p>
@@ -64,7 +64,7 @@
 <p>Edit Concert Details</p>
 
 
-<h4>User</h4>
+<h3>User</h3>
 
 <img src="https://github.com/user-attachments/assets/89e199bf-e0fc-429c-9fb9-59f03e88e8ae" src="User Home.jpeg" width="400" height="200">
 <p>User Home</p>
