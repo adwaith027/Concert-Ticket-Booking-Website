@@ -37,7 +37,7 @@
 <h2>Screenshots</h2>
 
 <img src="https://github.com/user-attachments/assets/60107af4-0808-4af3-ad54-3e2a55a5a99d" src="Signup.jpeg" width="400" height="200">
-<p>Signup</p>
+<span>Signup</span>
 
 <img src="https://github.com/user-attachments/assets/00f5bab8-8ba9-45be-b099-d41078e3e30b" src="Login.jpeg" width="400" height="200">
 <figcaption>Login</figcaption>
