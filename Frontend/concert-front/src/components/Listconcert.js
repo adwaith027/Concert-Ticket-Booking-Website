@@ -31,7 +31,7 @@ function Listconcert(){
                     'Authorization':`Token ${user.token}`
                 }
             }).then((response)=>{
-                window.alert('Concert Deleted')
+                window.alert('Concert Deleted') 
                 id=('')
                 axios.get('/view-concerts/')
                 .then(response=>{

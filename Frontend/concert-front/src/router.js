@@ -8,6 +8,7 @@ import Userhome from './components/Userhome';
 import Bookticket from './components/Bookticket';
 import AboutUs from './components/AboutUs';
 import Editconcert from './components/Editconcert';
+import Viewbookings from './components/Viewbookings';
 
 const router=createBrowserRouter([
     {path:'admin-home',element:<Adminhome/>},
@@ -18,7 +19,8 @@ const router=createBrowserRouter([
     {path:'concerts',element:<Listconcert/>},
     {path:'create-concert',element:<Createconcert/>},
     {path:'edit-concert/:concertid',element:<Editconcert/>},
-    {path:'book-concert/:concertid',element:<Bookticket/>}
+    {path:'book-concert/:concertid',element:<Bookticket/>},
+    {path:'bookings',element:<Viewbookings/>},
 ])
 
 export default router;

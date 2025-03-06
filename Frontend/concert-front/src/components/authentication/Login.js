@@ -63,7 +63,7 @@ function Login() {
                     </div>
                     <button className="submit-button" type="submit">Login</button>
                     <div className="form-group">
-                        <br/><span>New user? <Link to='/signup/'>Register</Link> here</span>
+                        <br/><span>New user? <Link to='/signup'>Register</Link> here</span>
                     </div>
                 </form>
             </div>

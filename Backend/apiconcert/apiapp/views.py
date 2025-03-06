@@ -153,3 +153,16 @@ def viewbooking(request,uname):
         return Response(serializer.data)
     else:
         return Response('No data',status=status.HTTP_404_NOT_FOUND)
+    
+
+@api_view(['GET'])
+@permission_classes([AllowAny])
+def viewtickets(request):
+    tickets=bookticket.objects.all()
+    if not tickets:
+        return Response('No tickets booked yet',status=status.HTTP_204_NO_CONTENT)
+    serializer=TicketSerializer(tickets,many=True)
+    if serializer:
+        return Response(serializer.data)
+    else:
+        return Response('No data',status=status.HTTP_404_NOT_FOUND)

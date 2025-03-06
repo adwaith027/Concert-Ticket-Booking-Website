@@ -54,7 +54,7 @@ function Signup(){
                 <button className="submit-button" onClick={signupUser}>Submit</button>
             </div>
             <div className="form-group">
-                <br/><span >Already a user? <Link className="lnk" to='/login/'>Login</Link> instead</span>
+                <br/><span >Already a user? <Link className="lnk" to='/login'>Login</Link> instead</span>
             </div>
             </div>
         </div>
