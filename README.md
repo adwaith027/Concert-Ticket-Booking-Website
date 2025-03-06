@@ -29,11 +29,11 @@ The Concert Booking System allows users to book tickets for concerts, view their
 
 ### Signup
 
-![Signup](https://github.com/user-attachments/assets/60107af4-0808-4af3-ad54-3e2a55a5a99d)
+![Signup](https://github.com/user-attachments/assets/e70b60d9-6098-4a12-a4cd-216e60b5cba2)
   
 ### Login
 
-![Login](https://github.com/user-attachments/assets/00f5bab8-8ba9-45be-b099-d41078e3e30b)
+![Login](https://github.com/user-attachments/assets/3b77dc87-0bd1-415f-9ca6-a4b3c14e59d2)
 
 ### Admin
 
@@ -44,6 +44,10 @@ The Concert Booking System allows users to book tickets for concerts, view their
 #### Concert Listing
 
 ![Concert Listing](https://github.com/user-attachments/assets/0a8d20d3-6d4a-4542-907f-f3316208c4b5)
+
+#### View Bookings
+
+![View Bookings](https://github.com/user-attachments/assets/1ade8659-1674-40fe-8820-2c5dd3231093)
 
 #### Add New Concerts
 
