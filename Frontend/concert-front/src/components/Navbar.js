@@ -53,6 +53,11 @@ function Navbar() {
                 user.role=='admin'?(    
                 <>
                 <li className="nav-item">
+                   <NavLink to={"/bookings"} className={ 'nav-link '+(status => status.isActive ? 'active' : '')}>
+                        Bookings
+                    </NavLink>
+                </li>
+                <li className="nav-item">
                    <NavLink to={"/create-concert"} className={ 'nav-link '+(status => status.isActive ? 'active' : '')}>
                         Add Concerts
                     </NavLink>
