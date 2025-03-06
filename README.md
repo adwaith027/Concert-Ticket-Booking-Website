@@ -1,83 +1,76 @@
-<h1>Project Name: Concert Booking System</h1>
-<h2>Overview</h2>
-<p>The Concert Booking System allows users to book tickets for concerts, view their bookings, and manage their ticket reservations. The system is divided into a Frontend (React) and a Backend (Django) component.</p>
+# Project Name: Concert Booking System
 
-<h2>Features</h2>
+## Overview
+The Concert Booking System allows users to book tickets for concerts, view their bookings, and manage their ticket reservations. The system is divided into a Frontend (React) and a Backend (Django) component.
 
-<ul>
-  <li>Frontend:</li>
-  <ul>
-    <li>User-friendly interface to view available concerts.</li>
-    <li>Option to book, cancel, and view booked tickets.</li>
-  </ul>
-  <li>Backend:</li>
-  <ul>
-    <li>RESTful API built with Django and Django REST Framework.</li>
-    <li>Handles concert ticket booking, cancellation, and user management.</li>
-  </ul>
-</ul>
+## Features
 
-<h2>Technologies Used</h2>
-<ul>
-  <li>Frontend:</li>
-  <ul>
-    <li>React.js</li>
-    <li>Axios (for API calls)</li>
-    <li>React Router (for navigation)</li>
-  </ul>
-  <li>Backend:</li>
-  <ul>
-    <li>Django</li>
-    <li>Django REST Framework</li>
-    <li>Django REST Framework</li>
-    <li>JWT for user authentication</li>
-  </ul>
-</ul>
+### Frontend:
+- User-friendly interface to view available concerts.
+- Option to book, cancel, and view booked tickets.
 
-<h2>Screenshots</h2>
+### Backend:
+- RESTful API built with Django and Django REST Framework.
+- Handles concert ticket booking, cancellation, and user management.
 
-<img src="https://github.com/user-attachments/assets/60107af4-0808-4af3-ad54-3e2a55a5a99d" src="Signup.jpeg" width="400" height="200">
-<p>Signup</p>
+## Technologies Used
 
-<img src="https://github.com/user-attachments/assets/00f5bab8-8ba9-45be-b099-d41078e3e30b" src="Login.jpeg" width="400" height="200">
-<p>Login</p>
+### Frontend:
+- React.js
+- Axios (for API calls)
+- React Router (for navigation)
 
-<h3>Admin</h3>
+### Backend:
+- Django
+- Django REST Framework
+- JWT for user authentication
 
-<img src="https://github.com/user-attachments/assets/3cd06312-bc0c-44be-b1df-cb348644ba7a" src="Admin Home.jpeg" width="400" height="200">
-<p>Admin Home</p>
+## Screenshots
 
+### Signup
 
-<img src="https://github.com/user-attachments/assets/0a8d20d3-6d4a-4542-907f-f3316208c4b5" src="Concert Listing.jpeg" width="400" height="200">
-<p>Concert Listing</p>
+![Signup](https://github.com/user-attachments/assets/60107af4-0808-4af3-ad54-3e2a55a5a99d)
+  
+### Login
 
+![Login](https://github.com/user-attachments/assets/00f5bab8-8ba9-45be-b099-d41078e3e30b)
 
-<img src="https://github.com/user-attachments/assets/5501fc49-5527-462f-8345-b561e386d825" src="Add Concerts.jpeg" width="400" height="200">
-<p>Add New Concerts</p>
+### Admin
 
+#### Admin Home
 
-<img src="https://github.com/user-attachments/assets/69f1c652-07ae-4cf1-8bb9-d86b6112ebbb" src="Delete Concert.jpeg" width="400" height="200">
-<p>Remove Concert</p>
+![Admin Home](https://github.com/user-attachments/assets/3cd06312-bc0c-44be-b1df-cb348644ba7a)
 
+#### Concert Listing
 
-<img src="https://github.com/user-attachments/assets/97c42d75-13dc-46f8-9cc9-62e551cc4980" src="Edit Concert.jpeg" width="400" height="200">
-<p>Edit Concert Details</p>
+![Concert Listing](https://github.com/user-attachments/assets/0a8d20d3-6d4a-4542-907f-f3316208c4b5)
 
+#### Add New Concerts
 
-<h3>User</h3>
+![Add New Concerts](https://github.com/user-attachments/assets/5501fc49-5527-462f-8345-b561e386d825)
 
-<img src="https://github.com/user-attachments/assets/89e199bf-e0fc-429c-9fb9-59f03e88e8ae" src="User Home.jpeg" width="400" height="200">
-<p>User Home</p>
+#### Remove Concert
 
+![Remove Concert](https://github.com/user-attachments/assets/69f1c652-07ae-4cf1-8bb9-d86b6112ebbb)
 
-<img src="https://github.com/user-attachments/assets/8afc2feb-89c2-441b-860a-ab2e60ca2493" src="Concert Listing.jpeg" width="400" height="200">
-<p>Concert Listing</p>
+#### Edit Concert Details
 
+![Edit Concert Details](https://github.com/user-attachments/assets/97c42d75-13dc-46f8-9cc9-62e551cc4980)
 
-<img src="https://github.com/user-attachments/assets/0fc0345d-def5-41ee-ad38-639b202c0e6e" src="Ticket Booking.jpeg" width="400" height="200">
-<p>Ticket Booking</p>
+### User
 
+#### User Home
 
-<img src="https://github.com/user-attachments/assets/09102ac7-bdfa-4c72-87b6-5b1652cf9c4c" src="Aboutus.jpeg" width="400" height="200">
-<p>About Us</p>
+![User Home](https://github.com/user-attachments/assets/89e199bf-e0fc-429c-9fb9-59f03e88e8ae)
 
+#### Concert Listing
+
+![Concert Listing](https://github.com/user-attachments/assets/8afc2feb-89c2-441b-860a-ab2e60ca2493)
+
+#### Ticket Booking
+
+![Ticket Booking](https://github.com/user-attachments/assets/0fc0345d-def5-41ee-ad38-639b202c0e6e)
+
+#### About Us
+
+![About Us](https://github.com/user-attachments/assets/09102ac7-bdfa-4c72-87b6-5b1652cf9c4c)
